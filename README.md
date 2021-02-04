@@ -2,12 +2,12 @@
 #### Luckson here🙂
 ![Luckson here🙂](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-I'm a passionate Android, Flutter and Backend  Developer
 
 Skills: JAVA/ KOTLIN / KTOR / JS / NODE/ DART/FLUTTER
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on open source mobile app development  projects  
+- 💬 Ask me about I'm a passionate Android, Flutter and Backend  Developer, I love to explore and try out new things 🚀. 
 - 📫 How to reach me: lucksonmwanambulo25@gmail.com 
 
 
