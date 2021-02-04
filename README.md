@@ -1,9 +1,10 @@
-### Hi there 👋,   
-#### Luckson here🙂
+
 ![Luckson here🙂](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+#### Luckson here🙂
 
 
-Skills: JAVA/ KOTLIN / KTOR / JS / NODE/ DART/FLUTTER
+
+##### Skills: JAVA/ KOTLIN / KTOR / JS / NODE/ DART/FLUTTER
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on open source mobile app development  projects  
