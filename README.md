@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**lucksonmwanambulo/lucksonmwanambulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  luckson here🙂
+(https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+
 
 Here are some ideas to get you started:
 
