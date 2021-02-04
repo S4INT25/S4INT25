@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ####  luckson here🙂
-(https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+![my name luckson](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 
 Here are some ideas to get you started:
