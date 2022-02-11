@@ -2,7 +2,7 @@
 ![Luckson here🙂](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 #### Luckson here🙂
 
-##### - 💬  Ask me about I'm a passionate Android, Flutter and Backend  Developer, I love to explore and try out new things 🚀. 
+##### - 💬  I'm a passionate Android, Flutter and Backend  Developer, I love to explore and try out new things 🚀. 
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on open source mobile app development  projects  
