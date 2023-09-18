@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open source mobile app development  projects  
 - 📫 How to reach me: lucksonmwanambulo25@gmail.com 
 
-##### Skills: JAVA/ KOTLIN / KTOR / JS / NODE/ DART/FLUTTER
+##### Skills: JAVA/ KOTLIN / KTOR / JS / NODE/ DART/FLUTTER /React /Angular
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/S4INT25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luckson-mwanambulo-9a9185205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/younggesz.luckson/)  
